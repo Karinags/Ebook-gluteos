@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ebook Glúteos - Transformación Femenina</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fff0f5;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #db4c77;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #db4c77;
+    }
+    .features {
+      background: #fff;
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      margin-top: 1rem;
+    }
+    .features li {
+      margin-bottom: 0.5rem;
+    }
+    .cta {
+      background-color: #db4c77;
+      color: white;
+      text-align: center;
+      padding: 1.5rem;
+      border-radius: 10px;
+      margin-top: 2rem;
+    }
+    .cta a {
+      background-color: white;
+      color: #db4c77;
+      padding: 0.75rem 1.5rem;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+      display: inline-block;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #fce4ec;
+      color: #555;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ebook Glúteos para Mujeres</h1>
+    <p>Tu guía para unos glúteos firmes, redondos y fuertes</p>
+  </header>
+
+  <section>
+    <h2>¿Qué encontrarás?</h2>
+    <div class="features">
+      <ul>
+        <li>Rutinas de glúteos para distintos niveles</li>
+        <li>Activación muscular efectiva</li>
+        <li>Ejercicios clave con técnica explicada</li>
+        <li>Consejos de piel para evitar granitos y mejorar textura</li>
+        <li>Motivación, constancia y resultados reales</li>
+      </ul>
+    </div>
+
+    <div class="cta">
+      <h2>Adquiérelo hoy por solo <br>$44.900 COP / USD 10.99</h2>
+      <p>Disponible para descarga inmediata</p>
+      <a href="#">Comprar ahora</a>
+    </div>
+
+    <h2>¿Para quién es esta guía?</h2>
+    <p>Este ebook es ideal para mujeres decididas que desean mejorar su físico, autoestima y salud. No importa si eres principiante o llevas tiempo entrenando, aquí encontrarás ejercicios adaptables, motivación y resultados visibles.</p>
+
+    <h2>Resultados reales en semanas</h2>
+    <p>Desde las primeras 4 semanas empezarás a notar firmeza y forma. Con disciplina y constancia, en 2-3 meses podrás ver una transformación notable tanto física como mental.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Ebook Glúteos | Creadora apasionada por el fitness femenino
+  </footer>
+</body>
+</html>
